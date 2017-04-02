@@ -1,0 +1,870 @@
+fileFormatVersion: 2
+guid: ac7118db1cea34d25a2b6efb2eb9e980
+timeCreated: 1490556651
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: car_black_1.png
+    21300002: car_black_2.png
+    21300004: car_black_3.png
+    21300006: car_black_4.png
+    21300008: car_black_5.png
+    21300010: car_black_small_1.png
+    21300012: car_black_small_2.png
+    21300014: car_black_small_3.png
+    21300016: car_black_small_4.png
+    21300018: car_black_small_5.png
+    21300020: car_blue_1.png
+    21300022: car_blue_2.png
+    21300024: car_blue_3.png
+    21300026: car_blue_4.png
+    21300028: car_blue_5.png
+    21300030: car_blue_small_1.png
+    21300032: car_blue_small_2.png
+    21300034: car_blue_small_3.png
+    21300036: car_blue_small_4.png
+    21300038: car_blue_small_5.png
+    21300040: car_green_1.png
+    21300042: car_green_2.png
+    21300044: car_green_3.png
+    21300046: car_green_4.png
+    21300048: car_green_5.png
+    21300050: car_green_small_1.png
+    21300052: car_green_small_2.png
+    21300054: car_green_small_3.png
+    21300056: car_green_small_4.png
+    21300058: car_green_small_5.png
+    21300060: car_red_1.png
+    21300062: car_red_2.png
+    21300064: car_red_3.png
+    21300066: car_red_4.png
+    21300068: car_red_5.png
+    21300070: car_red_small_1.png
+    21300072: car_red_small_2.png
+    21300074: car_red_small_3.png
+    21300076: car_red_small_4.png
+    21300078: car_red_small_5.png
+    21300080: car_yellow_1.png
+    21300082: car_yellow_2.png
+    21300084: car_yellow_3.png
+    21300086: car_yellow_4.png
+    21300088: car_yellow_5.png
+    21300090: car_yellow_small_1.png
+    21300092: car_yellow_small_2.png
+    21300094: car_yellow_small_3.png
+    21300096: car_yellow_small_4.png
+    21300098: car_yellow_small_5.png
+    21300100: motorcycle_black.png
+    21300102: motorcycle_blue.png
+    21300104: motorcycle_green.png
+    21300106: motorcycle_red.png
+    21300108: motorcycle_yellow.png
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: car_black_1.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 381
+        width: 71
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_black_2.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_black_3.png
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 248
+        width: 70
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_black_4.png
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 381
+        width: 70
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_black_5.png
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 125
+        width: 70
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_black_small_1.png
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 442
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_black_small_2.png
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 378
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_black_small_3.png
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 234
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_black_small_4.png
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 162
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_black_small_5.png
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 447
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_blue_1.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 71
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_blue_2.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_blue_3.png
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 248
+        width: 70
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_blue_4.png
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 248
+        width: 70
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_blue_5.png
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2
+        width: 70
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_blue_small_1.png
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 135
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_blue_small_2.png
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 386
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_blue_small_3.png
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 306
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_blue_small_4.png
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 306
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_blue_small_5.png
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 380
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_green_1.png
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 381
+        width: 71
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_green_2.png
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 263
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_green_3.png
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 381
+        width: 70
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_green_4.png
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 381
+        width: 70
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_green_5.png
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 125
+        width: 70
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_green_small_1.png
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 207
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_green_small_2.png
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 450
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_green_small_3.png
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 90
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_green_small_4.png
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 167
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_green_small_5.png
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 447
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_red_1.png
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 12
+        width: 71
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_red_2.png
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 145
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_red_3.png
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 381
+        width: 70
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_red_4.png
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 115
+        width: 70
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_red_5.png
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 7
+        width: 70
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_red_small_1.png
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 207
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_red_small_2.png
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 71
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_red_small_3.png
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 95
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_red_small_4.png
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 308
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_red_small_5.png
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 380
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_yellow_1.png
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 263
+        width: 71
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_yellow_2.png
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 396
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_yellow_3.png
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 130
+        width: 70
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_yellow_4.png
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 130
+        width: 70
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_yellow_5.png
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 7
+        width: 70
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_yellow_small_1.png
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 135
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_yellow_small_2.png
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 7
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_yellow_small_3.png
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 63
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_yellow_small_4.png
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 18
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: car_yellow_small_5.png
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 239
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: motorcycle_black.png
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 23
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: motorcycle_blue.png
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 279
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: motorcycle_green.png
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 23
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: motorcycle_red.png
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 13
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: motorcycle_yellow.png
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 279
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
